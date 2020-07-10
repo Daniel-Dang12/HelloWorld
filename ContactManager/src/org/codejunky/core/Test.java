@@ -1,6 +1,6 @@
 package org.codejunky.core;
 
 public class Test {
-	System.out.println("testing second");
+	System.out.println("testing second ");
 
 }
